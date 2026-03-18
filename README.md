@@ -4,4 +4,4 @@ I am a project-focused passionate learner showing interest in software developme
 
 **Goals to achieve**
 
-Building working software projects to showcase my abiilty to gain experience in software development for companies to show compentency and skills demonstrated.
+Build and test working software projects to showcase my abiilty to gain experience in software development for companies to show compentency and skills demonstrated.
