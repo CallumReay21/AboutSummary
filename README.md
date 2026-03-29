@@ -10,3 +10,9 @@ Build and test working real world software projects gaining experience in softwa
 
 I am passionate for learning C#, SQL, Python, Web Development.
 
+**Current Projects **
+
+**Project 1**
+
+Remote Assistance Administrator Suite
+
