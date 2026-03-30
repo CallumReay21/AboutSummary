@@ -10,9 +10,8 @@ Build and integrate working real world software applications with testing. furth
 
 I am passionate for learning C#, SQL, Python, Web Development.
 
-**Current Projects **
 
-**Ongoing Project**
+**Ongoing(Current) Project**
 
 Remote Assistance Administrator Suite
 
