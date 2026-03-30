@@ -4,7 +4,7 @@ I am a project-focused passionate learner interested in software development, ha
 
 **Long Term Objectives**
 
-Build and integrate working real world software applications with testing. further develop the proficiency in new and present programming languages including tools.
+Build and integrate working real world software applications with testing. further develop the proficiency in new and present programming languages including improved programmer tools.
 
 **Programming Languages**
 
