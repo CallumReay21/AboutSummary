@@ -26,3 +26,7 @@ Digital Forensic Evidence Recovery Administration Utility (Forensic Data Retenti
 
 https://www.linkedin.com/in/callum-reay-9748333a5/
 https://app.daily.dev/callumreay
+
+
+
+<a href="https://app.daily.dev/callumreay"><img src="https://api.daily.dev/devcards/v2/yL1yXM8MRe2big3qkSlww.png?r=u8k" width="356" alt="Callum Reay's Dev Card"/></a>
