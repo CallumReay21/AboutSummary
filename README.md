@@ -8,7 +8,7 @@ Build and integrate working real world software applications with testing. furth
 
 **Programming Languages**
 
-I am passionate for learning C#, SQL, Python, Web Development.
+I am passionate about learning and have basic knowledge of C#, SQL, Python, Web Development.
 
 
 **Ongoing(Current) Project**
