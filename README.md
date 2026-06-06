@@ -21,13 +21,14 @@ Employee collaboration suite
 
 Digital Forensic Evidence Recovery Administration Utility (Forensic Data Retention and Extraction Utility)
 
+
 **Future and Current Open-Source Projects**
+
 Asset and Stock Sales Portfolio Reporter Suite
 Agricultural Land Manager Assistant Suite
 
 
 **Where to find me**
-
 https://www.linkedin.com/in/callum-reay-9748333a5/
 https://app.daily.dev/callumreay
 
